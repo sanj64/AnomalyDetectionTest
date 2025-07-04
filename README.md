@@ -1,5 +1,5 @@
 # Anomaly Detection Demo
-Coding Task for REYES 2025 project "AI-Powered Space Mission Risk Prediction Framework"
+Prototype Task for REYES 2025 project "AI-Powered Space Mission Risk Prediction Framework"
 
 ## About the Project
 ### AI-Powered Space Mission Risk Prediction Framework
