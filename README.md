@@ -7,4 +7,4 @@ This project develops an AI-driven framework for predictive risk assessment and 
 
 ### Building Prototype 
 As a part of the project, I have built this python-based model detects anomalies using **Isolation Forest**. 
-Refer Summary for details/info.
+Refer [Summary](https://github.com/sanj64/AnomalyDetectionTest/blob/main/Summary.md) for details/info.
